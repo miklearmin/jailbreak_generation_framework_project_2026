@@ -1,4 +1,4 @@
-Adaptive Jailbreak Generation Framework against BERT Classifier  
+# Adaptive Jailbreak Generation Framework against BERT Classifier  
 
 Objective:  
 Making an adaptive jailbreak generation framework designed to generate adversarial prompts for evaluating the robustness of a BERT-based jailbreak classifier. The framework uses supervised fine-tuning and reinforcement learning to train an attacker model to successfully generate adversarial prompts that bypass the classifier model.
